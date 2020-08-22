@@ -1,0 +1,63 @@
+--------------------------------info[08:35:36]--------------------------------
+System.Exception: v2rayN start up v2rayN - V3.5 - 2020/01/15
+
+ 
+--------------------------------info[08:35:37]--------------------------------
+System.Exception: Webserver prefixes http://*:10810/pac/
+
+ 
+--------------------------------拒绝访问。[08:35:37]--------------------------------
+System.Net.HttpListenerException (0x80004005): 拒绝访问。
+   在 System.Net.HttpListener.AddAllPrefixes()
+   在 System.Net.HttpListener.Start()
+   在 v2rayN.Base.HttpWebServer..ctor(String[] prefixes, Func`2 method)
+
+ 
+--------------------------------info[08:35:37]--------------------------------
+System.Exception: Webserver InitServer 拒绝访问。
+
+ 
+--------------------------------info[08:35:37]--------------------------------
+System.Exception: WebserverB at 127.0.0.1
+
+ 
+--------------------------------info[08:35:37]--------------------------------
+System.Exception: WebserverB running...
+
+ 
+--------------------------------info[08:35:37]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[08:35:37]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[08:35:38]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[08:37:43]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[08:37:45]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[08:37:53]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[08:41:33]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[08:46:42]--------------------------------
+System.Exception: v2rayN start up v2rayN - V3.5 - 2020/01/15
+
+ 
+--------------------------------info[15:02:07]--------------------------------
+System.Exception: v2rayN start up v2rayN - V3.5 - 2020/01/15
+
+ 
